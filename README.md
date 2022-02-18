@@ -1,4 +1,7 @@
-### Hi there 👋
+### My Github corner
+I like to code for fun but also it's part of my work. Feel free to roam freely and use whatever you may find useful for yourself.
+I love to help people, feel free to ask.
+I'm expert at networking, and I code in JAVA, PHP, PYTHON, C, and I know a little frontend programing, but is not my strength, prefer to use WYSIWYG tools such as Bootstrap Studio for small projects or a nice and easy framework.
 
 <!--
 **jfernandogg/jfernandogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
